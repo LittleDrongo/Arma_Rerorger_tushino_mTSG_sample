@@ -1,0 +1,8 @@
+GameProject {
+ ID "TushinoSGmTSGReforger"
+ GUID "6050A59073237872"
+ TITLE "TushinoSG - mTSG Reforger"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
