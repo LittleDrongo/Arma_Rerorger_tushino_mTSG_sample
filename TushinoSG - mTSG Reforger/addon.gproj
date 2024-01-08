@@ -5,4 +5,73 @@ GameProject {
  Dependencies {
   "58D0FB3206B6F859"
  }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{6050B78A8A3C3313}" {
+      StringTableSource "{152461DE0635F771}Language/RolesNames.st"
+      Languages {
+       LanguageDefinition "{6050B78A96101310}" {
+        Code "cs_cz"
+        StringTableRuntime "{0F8464F6DC724B13}Language/RolesNames.cs_cz.conf"
+       }
+       LanguageDefinition "{6050B78A961640CC}" {
+        Code "de_de"
+        StringTableRuntime "{DAFA7EC5CFD15A33}Language/RolesNames.de_de.conf"
+       }
+       LanguageDefinition "{6050B78A961640BF}" {
+        Code "en_us"
+        StringTableRuntime "{840AF48EA5225F32}Language/RolesNames.en_us.conf"
+       }
+       LanguageDefinition "{6050B78A96164088}" {
+        Code "es_es"
+        StringTableRuntime "{4146B9074B20342D}Language/RolesNames.es_es.conf"
+       }
+       LanguageDefinition "{6050B78A96164095}" {
+        Code "fr_fr"
+        StringTableRuntime "{FAEE4C30ADA3D72F}Language/RolesNames.fr_fr.conf"
+       }
+       LanguageDefinition "{6050B78A9616407D}" {
+        Code "it_it"
+        StringTableRuntime "{7AF2C304008154D6}Language/RolesNames.it_it.conf"
+       }
+       LanguageDefinition "{6050B78A9616404B}" {
+        Code "ja_jp"
+        StringTableRuntime "{6AE97E963EF0647D}Language/RolesNames.ja_jp.conf"
+       }
+       LanguageDefinition "{6050B78A96164058}" {
+        Code "ko_kr"
+        StringTableRuntime "{CA57563AADDD6742}Language/RolesNames.ko_kr.conf"
+       }
+       LanguageDefinition "{6050B78A96164023}" {
+        Code "pl_pl"
+        StringTableRuntime "{9626F0C01332FB3E}Language/RolesNames.pl_pl.conf"
+       }
+       LanguageDefinition "{6050B78A96164033}" {
+        Code "pt_br"
+        StringTableRuntime "{43516A0C28CC3184}Language/RolesNames.pt_br.conf"
+       }
+       LanguageDefinition "{6050B78A96164019}" {
+        Code "ru_ru"
+        StringTableRuntime "{16107EA4B5B554F2}Language/RolesNames.ru_ru.conf"
+       }
+       LanguageDefinition "{6050B78A9616425A}" {
+        Code "zh_cn"
+        StringTableRuntime "{46F8456FE03B3ABA}Language/RolesNames.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
 }
